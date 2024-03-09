@@ -1,6 +1,5 @@
 import React from "react";
 
-
 function Hero() {
   return (
     <div className="grid grid-cols-4 gap-2 px-20 pt-12">
